@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
- 💞️ I’m looking to collaborate on web development or deep learning projects
+  I’m looking to collaborate on web development or deep learning projects
 
 
  ### :mailbox: How to reach me: <p>
